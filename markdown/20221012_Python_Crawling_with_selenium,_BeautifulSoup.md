@@ -62,7 +62,7 @@ driver = webdriver.Chrome('chromedriver')
 time.sleep(10)
 ```
 
-[##_Image|kage@yxeBR/btrOqEPmRCn/9DpVKiWb6fT8zTkQknvsEk/img.png|CDM|1.3|{"originWidth":913,"originHeight":1080,"style":"alignCenter"}_##]
+![crawling](https://github.com/insung-ethan-j/Python_basic/blob/abaf0e1ef2b12763b77d1c2ab82d2201c14bbbcf/img_source/20221012_Python_Crawling_with_selenium,_BeautifulSoup%20(1).PNG?raw=true)
 
 <br>
 
@@ -73,7 +73,7 @@ driver.get("https://naver.com")
 time.sleep(10)
 ```
 
-[##_Image|kage@4Tmni/btrOqNkYLbH/oflc65SY1TLGdGWPx6Cdo0/img.png|CDM|1.3|{"originWidth":913,"originHeight":1080,"style":"alignCenter"}_##]
+![crawling](https://github.com/insung-ethan-j/Python_basic/blob/abaf0e1ef2b12763b77d1c2ab82d2201c14bbbcf/img_source/20221012_Python_Crawling_with_selenium,_BeautifulSoup%20(2).PNG?raw=true)
 
 <br>
 
@@ -87,7 +87,7 @@ driver.find_element(By.XPATH, '//*[@id="account"]/a').click() # > 현재 가능 
 time.sleep(10)
 ```
 
-[##_Image|kage@cmOyG4/btrOsbkTRT0/ZkVS3O6Ov2YFA1mjdCnKh0/img.png|CDM|1.3|{"originWidth":913,"originHeight":1080,"style":"alignCenter"}_##]
+![crawling](https://github.com/insung-ethan-j/Python_basic/blob/abaf0e1ef2b12763b77d1c2ab82d2201c14bbbcf/img_source/20221012_Python_Crawling_with_selenium,_BeautifulSoup%20(10).PNG?raw=true)
 
 <br>
 
@@ -106,7 +106,7 @@ driver.find_element(By.XPATH, '//*[@id="pw"]').send_keys('password') # > passwor
 time.sleep(10)
 ```
 
-[##_Image|kage@bdAyTJ/btrOo6yPbpB/RROk8Lp5rfhfJ1PvaFg2D1/img.png|CDM|1.3|{"originWidth":913,"originHeight":1080,"style":"alignCenter"}_##]
+![crawling](https://github.com/insung-ethan-j/Python_basic/blob/abaf0e1ef2b12763b77d1c2ab82d2201c14bbbcf/img_source/20221012_Python_Crawling_with_selenium,_BeautifulSoup%20(11).PNG?raw=true)
 
 <br>
 
@@ -118,7 +118,7 @@ driver.find_element(By.XPATH, '//*[@id="log.login"]').click() # > Click Sign in
 time.sleep(30)
 ```
 
-[##_Image|kage@bAZRCL/btrOq14nWgn/VbEHOxw0lhh6APn16elucK/img.png|CDM|1.3|{"originWidth":913,"originHeight":1080,"style":"alignCenter"}_##]
+![crawling](https://github.com/insung-ethan-j/Python_basic/blob/abaf0e1ef2b12763b77d1c2ab82d2201c14bbbcf/img_source/20221012_Python_Crawling_with_selenium,_BeautifulSoup%20(12).PNG?raw=true)
 
 <br>
 
@@ -129,7 +129,7 @@ driver.get('https://cafe.naver.com/joonggonara')
 time.sleep(10)
 ```
 
-[##_Image|kage@ceKh2p/btrOrcYUBN5/3JTEOkJms8CGUmw3bGMpJk/img.png|CDM|1.3|{"originWidth":913,"originHeight":1080,"style":"alignCenter"}_##]
+![crawling](https://github.com/insung-ethan-j/Python_basic/blob/abaf0e1ef2b12763b77d1c2ab82d2201c14bbbcf/img_source/20221012_Python_Crawling_with_selenium,_BeautifulSoup%20(13).PNG?raw=true)
 
 <br>
 
@@ -140,7 +140,7 @@ driver.find_element(By.XPATH, '//*[@id="cafe-info-data"]/div[4]/a').click()
 time.sleep(10)
 ```
 
-[##_Image|kage@vIxQp/btrOqzHk0sf/xNSaAUsA941Uo0fxfrHWj0/img.png|CDM|1.3|{"originWidth":913,"originHeight":1080,"style":"alignCenter"}_##]
+![crawling](https://github.com/insung-ethan-j/Python_basic/blob/abaf0e1ef2b12763b77d1c2ab82d2201c14bbbcf/img_source/20221012_Python_Crawling_with_selenium,_BeautifulSoup%20(14).PNG?raw=true)
 
 <br>
 
@@ -171,7 +171,7 @@ driver.find_element(By.XPATH, '//*[@id="query"]').send_keys("교보문고")
 time.sleep(10)
 ```
 
-[##_Image|kage@b7nYlf/btrOqzUSBQF/WM8CMCpo6Xi8d3imtkDKL1/img.png|CDM|1.3|{"originWidth":913,"originHeight":1080,"style":"alignCenter"}_##]
+![crawling](https://github.com/insung-ethan-j/Python_basic/blob/abaf0e1ef2b12763b77d1c2ab82d2201c14bbbcf/img_source/20221012_Python_Crawling_with_selenium,_BeautifulSoup%20(3).PNG?raw=true)
 
 <br>
 
@@ -180,7 +180,7 @@ driver.find_element(By.XPATH, '//*[@id="search_btn"]').click()
 time.sleep(10)
 ```
 
-[##_Image|kage@cYzILS/btrOrT5SPst/j52tDwMCBoBRZEgRjKaut0/img.png|CDM|1.3|{"originWidth":913,"originHeight":1080,"style":"alignCenter"}_##]
+![crawling](https://github.com/insung-ethan-j/Python_basic/blob/abaf0e1ef2b12763b77d1c2ab82d2201c14bbbcf/img_source/20221012_Python_Crawling_with_selenium,_BeautifulSoup%20(4).PNG?raw=true)
 
 <br>
 
@@ -191,7 +191,7 @@ time.sleep(10)
 driver.close()
 ```
 
-[##_Image|kage@q9m2j/btrOrdwK1Ne/HQyLiG2ZKAyThtNK7MAwpK/img.png|CDM|1.3|{"originWidth":913,"originHeight":1080,"style":"alignCenter"}_##]
+![crawling](https://github.com/insung-ethan-j/Python_basic/blob/abaf0e1ef2b12763b77d1c2ab82d2201c14bbbcf/img_source/20221012_Python_Crawling_with_selenium,_BeautifulSoup%20(5).PNG?raw=true)
 
 <br>
 
@@ -215,7 +215,7 @@ chrome_driver.get("https://www.kyobobook.co.kr/")
 chrome_driver.find_element(By.XPATH, '//*[@id="welcome_header_wrap"]/div[3]/nav/ul[1]/li[1]/a').click()
 ```
 
-[##_Image|kage@OxzDn/btrOpSNXxtz/RBwuKdllUBsMx0ZuI7ukX0/img.png|CDM|1.3|{"originWidth":913,"originHeight":1080,"style":"alignCenter"}_##]
+![crawling](https://github.com/insung-ethan-j/Python_basic/blob/abaf0e1ef2b12763b77d1c2ab82d2201c14bbbcf/img_source/20221012_Python_Crawling_with_selenium,_BeautifulSoup%20(6).PNG?raw=true)
 
 <br>
 
