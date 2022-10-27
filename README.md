@@ -26,7 +26,7 @@
 9. Python crawling with browserless and `requests`
 
 10. Python OOP   
-: Structures and Classes, Ingeritance and Overriding
+: Structures and Classes, Inheritance and Overriding
 
 <br>
 
