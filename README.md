@@ -1,6 +1,6 @@
-# Basic_Python_with_Data_crawling
+# Basic_Python_with_Data_Crawling
 
-## Learning basic Python with Data crawling
+## Learning basic Python with Data Crawling
 
 ### Index
 
@@ -33,3 +33,15 @@
 ### Study Period
 
 2022-10-04 ~ 2022-10-17
+
+<br>
+
+### Institute
+
+[PLAYDATA](https://playdata.io/)
+
+<br>
+
+### Teacher
+
+Jonghoon Chae
